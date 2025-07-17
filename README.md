@@ -5,13 +5,13 @@
   "email": "quader@gmail.com",
   "password": "12345678",
   "password_confirmation": "12345678"
-}
+}```
 
 # login:
 ```{
     "email" : "quader@gmail.com",
     "password" : "12345678"
-}
+}```
 
 # profile:
 Authorization: Bearer [Bearer space key]
@@ -24,4 +24,4 @@ Authorization: Bearer [Bearer space key]
     "title" : "This is my first post",
     "content" : "Today i talk about interface. Let's start guys",
     "user_id" : 1
-}
+}```
